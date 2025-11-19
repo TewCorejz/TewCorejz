@@ -23,7 +23,7 @@
 
 <h1 id="nickname" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFnZm5mN3NtYTQ0NXgxOGRwZ2pmNDBjdWR3ZmpoeHgyNjlseXM3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6fJ26gWqC1LVs0wM/giphy.gif" width="40px"/>
-  TewCorejz
+  JordanioL
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFnZm5mN3NtYTQ0NXgxOGRwZ2pmNDBjdWR3ZmpoeHgyNjlseXM3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6fJ26gWqC1LVs0wM/giphy.gif" width="40px"/>
 </h1>
 
